@@ -1,0 +1,62 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="423px" height="557px" viewBox="-0.5 -0.5 423 557" content="&lt;mxfile scale=&quot;3&quot; border=&quot;0&quot;&gt;&lt;diagram id=&quot;ttegHsqWdhuMUy_pl7SX&quot; name=&quot;Page-1&quot;&gt;7ZdRb5swEMc/Da9TgJCkjwvtNmnpNC0Pe76CA1aMD5mjSfrpdwYTSkmlqOnyFAkJ7u8723e/QxgvjIv9dwNl/oipUF4wSfdeeO8FgT/xI75Z5dAq87tJK2RGps6pF9byRXSRTq1lKqqBIyEqkuVQTFBrkdBAA2NwN3TboBquWkImRsI6ATVW/8qU8lZdBPNe/yFklncr+7O7dqSAztllUuWQ4u6VFD54YWwQqX0q9rFQtnhdXdq4b++MHjdmhKZzAoI24BlU7XL7WetUuM3Rocu42slCgWZruUFNazcyYTvJpUpXcMDarlgRJNvOWuZo5Av7g+IhnwUeNuSABjM7m1QqRoWGBY3NAn3Q2k7mljGi4rDfXWb+G+kR9gPHFVTUbRCVgrKST82WbWABJpN6iURYOCdXB2FI7N+tpX8kxK0tsBBkDuziAuaOqWvqqTN3fYf4nZa/7o6FgwCuK7PjzD04fnDsTnNcjDhuLUf9y4xQcoLUkDC4FW9Kf4IGKJlpNpXY2DBbIclvwlcnE5Z2shISqbNV43M/7ZU/Lk8rIcduVNPtuUx5cxYWEhA8HZupRKmpqUO05IvLFU++RF7EG4/Z9nubL+tuKEbNuYBsIAnGvhMW/XlEg9NEHULu0LMQdn6XEAxHBDUU4xfxRu9selFwPXrTEb1nNDeAlwGcL64HMBoBFAVIdcP3cXz+ZHo9frPxB9CIVNKWzxtC67ooxO1TeAnM8MzjzGfAnI9g8rmR6sqzk4d+f167sfwQy+j/nWvY7P9emrFX/4Dhwz8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-16-97-388-70-0">
+            <rect x="16" y="97" width="388" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-175-388-70-0">
+            <rect x="16" y="175" width="388" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-253-388-70-0">
+            <rect x="16" y="253" width="388" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-331-388-70-0">
+            <rect x="16" y="331" width="388" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-409-388-70-0">
+            <rect x="16" y="409" width="388" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-487-388-70-0">
+            <rect x="16" y="487" width="388" height="70"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 78 L 0 0 L 420 0 L 420 78" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 78 L 0 546 L 420 546 L 420 78" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 78 L 420 78" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="36px">
+            <text x="209.5" y="53.5">
+                Kunde
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-97-388-70-0)" font-size="36px">
+            <text x="17.5" y="131.5">
+                kundenNr
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-175-388-70-0)" font-size="36px">
+            <text x="17.5" y="209.5">
+                name
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-253-388-70-0)" font-size="36px">
+            <text x="17.5" y="287.5">
+                vorname
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-331-388-70-0)" font-size="36px">
+            <text x="17.5" y="365.5">
+                email
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-409-388-70-0)" font-size="36px">
+            <text x="17.5" y="443.5">
+                kreditkartennummer
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-487-388-70-0)" font-size="36px">
+            <text x="17.5" y="521.5">
+                status
+            </text>
+        </g>
+    </g>
+</svg>

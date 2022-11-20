@@ -1,0 +1,86 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="513px" height="791px" viewBox="-0.5 -0.5 513 791" content="&lt;mxfile scale=&quot;3&quot; border=&quot;0&quot;&gt;&lt;diagram id=&quot;pRBQW93TD4-0I7L0Z1Ol&quot; name=&quot;Page-1&quot;&gt;7ZhRb6MwDMc/TV9PBUrbPa6st0m3naardPfsQQpRQ4yCN9p9+nMgjHZ0UnXt9QkJVfgfO479S1FgFET59t5AkT1hItTIHyfbUXA38n0/nPOvFXaNMLsZN0JqZNJIXies5LtwYuv2KhNRHjgSoiJZHIoxai1iOtDAGKwO3daoDrMWkIqesIpB9dU/MqGsUef+rNMfhEyzNrM3vWlGcmidXSVlBglWe1KwHAWRQaTmLt9GQtnetX1p4r5/MfqxMCM0nRLgNwFvoF5dbSs0JHMb3iyQdm3VZSVzBZqtxRo1rdzImO04kyp5hB2+2qwlQbxprUWGRr6zPyge8ljgYUMOqj+1s0mlIlRoWNBYJ+iCVnYyl8aIksOe2+q8T9ITbA8cH6GkdoGoFBSlfKmXbANzMKnUCyTC3Dn1m+f6+SYMie2e5Jp5LzAXZHbs4kZnjqvb2BNnVt0u8VqXbG+H+FMngtuZ6cfMHTy+cfyOswx6LG8N/eSm3rL6DpnqEeWiqAZicCM+ETgCBZRMNZtKrG2Y7YrkP8WtkwkLO1kBsdTpY+1zN+mUX65cKyHHrlW98TOZJEJbZkhA8PKxpwqUmup2hAu+uEHR+Fs4CnnhEdteZ/Nl3Q1FqLkWkDU+wfQrYXfAEbD+yWB3LaFTSZ4PcnIMpNzwM7RGWVMbUP4zytC/Hsqwh/IHkEj56SYGmJeAOZtfD+a0B/NBmJLYSZiB5iVoeuPJ9XDOejjvRSVjm2JgeQGWwcmHn/NZznssl8/DweciGMMrnnxuehh/Dxgvg3F+xVNP+56+f4JVG8xQyTLOGqAVZIbzUllxDQPZM95Mxlc8Ann9DwYLrgR0MiA8A2Hw/449bHafk+qxvW9ywfIv&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-16-97-478-70-0">
+            <rect x="16" y="97" width="478" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-175-478-70-0">
+            <rect x="16" y="175" width="478" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-253-478-70-0">
+            <rect x="16" y="253" width="478" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-331-478-70-0">
+            <rect x="16" y="331" width="478" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-409-478-70-0">
+            <rect x="16" y="409" width="478" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-487-478-70-0">
+            <rect x="16" y="487" width="478" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-565-478-70-0">
+            <rect x="16" y="565" width="478" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-643-478-70-0">
+            <rect x="16" y="643" width="478" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-16-721-478-70-0">
+            <rect x="16" y="721" width="478" height="70"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 78 L 0 0 L 510 0 L 510 78" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 78 L 0 780 L 510 780 L 510 78" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 78 L 510 78" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="36px">
+            <text x="254.5" y="53.5">
+                Sortiment
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-97-478-70-0)" font-size="36px">
+            <text x="17.5" y="131.5">
+                ArtNr: zahl
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-175-478-70-0)" font-size="36px">
+            <text x="17.5" y="209.5">
+                Artikel: text
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-253-478-70-0)" font-size="36px">
+            <text x="17.5" y="287.5">
+                Kategorie: text
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-331-478-70-0)" font-size="36px">
+            <text x="17.5" y="365.5">
+                Hersteller: text
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-409-478-70-0)" font-size="36px">
+            <text x="17.5" y="443.5">
+                Gewicht: text
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-487-478-70-0)" font-size="36px">
+            <text x="17.5" y="521.5">
+                EP: zahl
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-565-478-70-0)" font-size="36px">
+            <text x="17.5" y="599.5">
+                VP: zahl
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-643-478-70-0)" font-size="36px">
+            <text x="17.5" y="677.5">
+                Alkoholisch: wahrheitswert
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-16-721-478-70-0)" font-size="36px">
+            <text x="17.5" y="755.5">
+                Bestand
+            </text>
+        </g>
+    </g>
+</svg>
