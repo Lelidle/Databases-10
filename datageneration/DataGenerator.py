@@ -1,6 +1,8 @@
 from faker import Faker
 import numpy as np
 
+
+
 def page180_3():
     fake = Faker("de_DE")
     export = []
@@ -12,10 +14,10 @@ def page180_3():
     #S.180|3
     for i in range(1,1501):
         to_append = [
-            str(i) + "; ", #MNr
-            fake.first_name()+ "; ", #Name
-            fake.last_name()+ "; ", #Vorname
-            str(np.random.choice(department, p=weights))+ "; ", #Abteilung
+            str(i) + ";", #MNr
+            fake.first_name()+ ";", #Name
+            fake.last_name()+ ";", #Vorname
+            str(np.random.choice(department, p=weights))+ ";", #Abteilung
             str(np.random.choice(salary, p=weights_salary)) #Gehaltsstufe
         ]
         to_append[4] = to_append[4] + "\n"
@@ -77,17 +79,29 @@ def page180_5():
         ]
         match to_append[3]:
             case "m;":
-                to_append[6] = np.random.choice(["Bass", "Tenor"], p=[0.4, 0.6])
+                if int(to_append[4].replace(";", "")) > 9:
+                    prob = [0.4,0.5,0.1,0]
+                else: 
+                    prob = [0.05, 0.55, 0.3,0.1]
+                to_append[6] = np.random.choice(["Bass", "Tenor", "Alt", "Sopran"], p=prob)
             case "w;":
-                to_append[6] = np.random.choice(["Alt", "Sopran"], p=[0.4,0.6])
+                if int(to_append[4].replace(";", "")) > 9:
+                    prob = [0.8, 0.2]
+                else:
+                    prob =  [0.2, 0.8]
+                to_append[6] = np.random.choice(["Alt", "Sopran"], p=prob)
         to_append[6]+="\n"
         export.append(to_append)
     return export
 
 if __name__ == "__main__":
-
-    export = page180_5()
-    with open("180_5.csv", "w", encoding="utf8") as f:
-        for line in export:
-            f.writelines(line)
+    f = Faker()
+    d = dir(f)
+    with open("functions.txt", "w", encoding="utf8") as f:
+        for line in d:
+            f.writelines(line + "\n")
+    #export = page180_3()
+    #with open("180_3.csv", "w", encoding="utf8") as f:
+    #    for line in export:
+    #        f.writelines(line)
 
